@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Hi I'm Pedro Nagato!🖖
 
 ##
-- 🌱 I’m currently learning HTML5 & CSS3
-- 👯 I’m looking to collaborate on Front-End developer
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on  Game Dev
 - 📫 How to reach me:  pedro.henrique.cruzz@hotmail.com
 - ⚡ Fun fact:  a Nerd guy
 
